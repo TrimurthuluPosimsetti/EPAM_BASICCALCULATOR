@@ -1,0 +1,42 @@
+Input:
+Enter the first number:
+2
+Enter the Second number:
+3
+Choose one options from below options:
+1:Addition
+2:Multiplication
+3:Division
+1
+
+Output:
+Addition of 2 and 3 is 5
+
+Input:
+Enter the first number:
+200
+Enter the Second number:
+300
+Choose one options from below options:
+1:Addition
+2:Multiplication
+3:Division
+3
+
+Output:
+Division of 200 and 300 is 0.6666666666666666
+
+Input:
+Enter the first number:
+20
+Enter the Second number:
+30
+Choose one options from below options:
+1:Addition
+2:Multiplication
+3:Division
+2
+
+Output:
+Multiplication of 20 and 30 is 600
+
